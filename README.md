@@ -1,4 +1,3 @@
 # jenkins
 abc
-adk;k;l
-fe
+adk;
